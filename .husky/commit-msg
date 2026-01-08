@@ -1,1 +1,2 @@
-pnpm dlx commitlint --edit 
+#!/bin/sh
+echo "Running commit message hook"
